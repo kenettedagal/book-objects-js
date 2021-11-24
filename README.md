@@ -1,2 +1,2 @@
 # book-objects-js
-The Odin Project Exercise
+The Odin Project Exercise: Book Object Constructor
